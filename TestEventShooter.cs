@@ -8,6 +8,7 @@ public class TestEventShooter : MonoBehaviour
     private GameObject gameObject;
     public string gameobjectName;
     public List<EventDict> events = new List<EventDict>();
+
     // Start is called before the first frame update
     void Start()
     {
@@ -36,9 +37,9 @@ public class TestEventShooter : MonoBehaviour
     }
 }
 
-[System.Serializable]//makes sure this shows up in the inspector
+[System.Serializable] // So that the class shows up in the inspector
 public class EventDict
 {
-    public string eventName;//your name variable to edit
-    public bool isTriggered;//place texture in here
+    public string eventName; // Your event name
+    public bool isTriggered;// Fire the event when clicked
 }
