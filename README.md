@@ -6,7 +6,10 @@ While testing the AR project, event must be triggered after built and uploaded t
 In order to make sure everything works before deployemnet, the script is written.
 
 # Usage
-Download and put into your Unity Project
+1. Download and put into your Unity Project
+2. Attach the script to an Empty GameObject
+![image](https://github.com/Alfredhana/Unity-Test-Playermaker-Event-Shooter/assets/5700698/29c674db-bea5-4693-b172-291f12d1ec9d)
+
 
 # Example
 ![image](https://github.com/Alfredhana/Unity-Test-Playermaker-Event-Shooter/assets/5700698/e961e5ec-9148-458c-b6b0-6dbf18315979)
