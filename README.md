@@ -2,7 +2,7 @@
 
 # Intention
 
-WHile testing the AR project, event must be triggered after built and uploaded to the the Headset.
+While testing the AR project, event must be triggered after built and uploaded to the the Headset.
 In order to make sure everything works before deployemnet, the script is written.
 
 # Usage
