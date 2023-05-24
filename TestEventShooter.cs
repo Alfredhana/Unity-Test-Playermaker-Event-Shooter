@@ -30,6 +30,7 @@ public class TestEventShooter : MonoBehaviour
                 {
                     fsm.SendEvent(e.eventName);
                     e.isTriggered = false;
+                    console.log(e.eventName + " sent");
                     break;
                 }
             }
