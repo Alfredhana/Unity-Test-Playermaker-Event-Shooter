@@ -8,6 +8,7 @@ In order to make sure everything works before deployemnet, the script is written
 # Usage
 1. Download and put into your Unity Project
 2. Attach the script to an Empty GameObject
+
 ![image](https://github.com/Alfredhana/Unity-Test-Playermaker-Event-Shooter/assets/5700698/29c674db-bea5-4693-b172-291f12d1ec9d)
 
 
